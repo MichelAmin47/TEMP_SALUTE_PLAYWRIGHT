@@ -1,0 +1,34 @@
+{
+  "env": {
+    "envSelected": "test",
+    "BASE_URL": "https://webshop.mobiletestautomation.nl",
+    "EMAIL_ADDRESS": "info@mail.com",
+    "WebshopApi": "https://webshop.mobiletestautomation.nl/api",
+    "WebshopApiToken": "",
+    "db_mysql": {
+      "host": "myMySQLdatabaseServer.com",
+      "port": "3307",
+      "user": "",
+      "password": "",
+      "database": "myDatabase"
+    },
+    "db_mssql": {
+      "server": "myMSSQLdatabaseServer.com",
+      "authentication": {
+        "type": "default",
+        "options": {
+          "userName": "",
+          "password": ""
+        }
+      },
+      "options": {
+        "port": 1433,
+        "database": "myDatabase",
+        "encrypt": true,
+        "rowCollectionOnRequestCompletion": true,
+        "trustServerCertificate": true,
+        "validateBulkLoadParameters": true
+      }
+    }
+  }
+}

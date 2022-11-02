@@ -1,0 +1,14 @@
+{
+  "items": {
+    "item_1": {
+      "id": 2,
+      "name": "Hummingbird printed sweater",
+      "price": "€34.75"
+    },
+    "item_2": {
+      "id": 7,
+      "name": "Mug The adventure begins",
+      "price": "€14.40"
+    }
+  }
+}
